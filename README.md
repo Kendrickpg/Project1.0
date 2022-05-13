@@ -1,14 +1,15 @@
-Expense Reimbursment
-Project Description
-A Java based application where Employees can submit tickets, 
+<h1> Expense Reimbursment 
+Project Description</h1>
+  
+A Java based application where Employees can submit tickets, <br/>
 
-Technologies Used
-Java 11
-Postgres
-Tomcat
+<h2>Technologies Used</h2>
+Java 11<br/>
+Postgres<br/>
+Tomcat<br/>
 
-Features
+<h2>Features</h2>
 
-User insert Ticket
-Financial manager able to approve/decline tickets
-User see all of THEIR tickets
+User insert Ticket<br/>
+Financial manager able to approve/decline tickets<br/>
+User see all of THEIR tickets<br/>
